@@ -6,4 +6,5 @@ A continuación te dejo los recursos asociados a esta Master Class.
 
 [Diapositivas de la clase](https://drive.google.com/file/d/1inV_SCPahCGdGXsoVKvwsMVjx8I-KWdc/view)
 
-[Video Completo de la clase]()
+[Video Completo de la clase](https://www.dropbox.com/scl/fi/jvafq1b4s6nz57pufasb4/mcat.mp4?rlkey=f0anaepzfghw0mvqel7uhg58t&dl=0)
+El video estará disponible hasta el 31 de marzo de 2024
