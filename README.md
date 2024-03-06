@@ -10,8 +10,6 @@ Te doy la más cordial bienvenida al Repositorio de las **Clases Magistrales** r
 <figcaption>Jorge Rojas Vallejos, Ph.D.</figcaption>
 </figure>
 
-$$ \quad $$ 
-
 Algunas de sus publicaciones de investigación científica son:
 
 - Agastya, M. and Rojas-Vallejos, J. (2023). The “need to belong” and Conformity in Search by a Committee. International Journal of Game Theory. [Click](https://link.springer.com/article/10.1007/s00182-023-00838-3)
@@ -19,7 +17,6 @@ Algunas de sus publicaciones de investigación científica son:
 - Rojas-Vallejos, J. and Lastuka, A. (2020). The Income Inequality and Carbon Emissions Trade-Off Revisited. Energy Policy, 139, pp. 111302. [Click](https://www.sciencedirect.com/science/article/pii/S0301421520300616)
 - Turnovsky, S. J. and Rojas-Vallejos, J. (2018). The Distributional Consequences of Trade Liberalization: Consumption Tariff versus Investment Tariff Reduction. Journal of Development Economics, 134(1), pp. 392-415. [Click](https://www.sciencedirect.com/science/article/pii/S0304387818307260)
 
-$$ $$
 
 ## LISTADO DE CLASES
 
