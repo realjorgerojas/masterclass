@@ -4,4 +4,4 @@ En esta clase abordamos algunos aspectos básicos del análisis técnico donde a
 
 A continuación te dejo los recursos asociados a esta Master Class.
 
-[Diapositivas de la clase](MasterClass_Análisis_Técnico.pdf)
+[Diapositivas de la clase](2024/MasterClass_Análisis_Técnico.pdf)
