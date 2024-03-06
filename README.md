@@ -3,7 +3,7 @@
 Te doy la más cordial bienvenida al Repositorio de las **Clases Magistrales** realizadas por Jorge Rojas Vallejos sobre temas de *economía y finanzas*. 
 
   
-[Jorge Rojas Vallejos](https://www.jorgerojas.cl) es Ingeniero Civil en Obras Civiles de la Universidad de Chile, Magíster en Economía Aplicada de la Universidad de Sydney en Australia y Doctor en Economía de la Universidad de Washington en Estados Unidos. Jorge es el impulsor de diferentes acciones sociales a través de la **Fundación Economía y Equidad**. Además, es fundador de **Piedra Roja SpA**, un emprendimiento dedicado a entregar educación económica y financiera de alta calidad en un lenguaje sencillo, pero conservando la rigurosidad académica. Jorge actualmente es Miembro Asociado del Foro en Economía Política de la Universidad de Washington y Profesor Asociado de la Universidad Andrés Bello.
+[Jorge Rojas Vallejos](http://www.jorgerojas.cl) es Ingeniero Civil en Obras Civiles de la Universidad de Chile, Magíster en Economía Aplicada de la Universidad de Sydney en Australia y Doctor en Economía de la Universidad de Washington en Estados Unidos. Jorge es el impulsor de diferentes acciones sociales a través de la **Fundación Economía y Equidad**. Además, es fundador de **Piedra Roja SpA**, un emprendimiento dedicado a entregar educación económica y financiera de alta calidad en un lenguaje sencillo, pero conservando la rigurosidad académica. Jorge actualmente es Miembro Asociado del Foro en Economía Política de la Universidad de Washington y Profesor Asociado de la Universidad Andrés Bello.
 
 <figure>
 <img src="jorgerojas.jpg" width="400" height="300">
