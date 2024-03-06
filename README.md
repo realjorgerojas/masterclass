@@ -20,7 +20,10 @@ Algunas de sus publicaciones de investigación científica son:
 
 ## LISTADO DE CLASES
 
-### [Análisis Técnico de los Mercados Financieros]() 05 de Marzo de 2024.
+### [Análisis Técnico de los Mercados Financieros](https://realjorgerojas.github.io/masterclass/2024/marzo) 05 de Marzo de 2024.
+
+## Contacto
+Si tienes alguna duda o consulta, me puedes escribir a *realjorgerojas @ gmail.com*
 
 
 
