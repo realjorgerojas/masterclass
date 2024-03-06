@@ -4,4 +4,6 @@ En esta clase abordamos algunos aspectos básicos del análisis técnico donde a
 
 A continuación te dejo los recursos asociados a esta Master Class.
 
-[Diapositivas de la clase](mcat.pdf)
+[Diapositivas de la clase](https://drive.google.com/file/d/1inV_SCPahCGdGXsoVKvwsMVjx8I-KWdc/view)
+
+[Video Completo de la clase]()
